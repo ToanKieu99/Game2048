@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/quaylai"
+        android:icon="@drawable/ic_undo_black_24dp"
+        android:title="Quay lại"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/choimoi"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="Quay lại"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Quay lại"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/saoluu"
+        android:icon="@drawable/ic_undo_black_24dp"
+        android:title="Quay lại" />
+
+    <item
+        android:id="@+id/caidat"
+        android:icon="@drawable/ic_undo_black_24dp"
+        android:title="Quay lại"
+        />
+
+</menu>
